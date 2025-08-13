@@ -11,6 +11,19 @@ PRIMEIROS-PASSOS-DADOS/
 │
 └── 2-conhecendo-a-biblioteca-requests
 ├── Notebooks com exercícios curso
+│
+└── 3-pipeline-mongo-mysql/
+├── data/
+│ └── Pasta onde serão gerados os CSV
+│
+├── notebooks/
+│ ├── extract_and_save_data.ipynb
+│ ├── save_data_mysql.ipynb
+│ └── transform_data.ipynb
+│
+├── images/
+│ └── Conteúdo para o README.md
+
 ```
 
 ---
